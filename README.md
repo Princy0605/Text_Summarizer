@@ -121,5 +121,3 @@ The model was fine-tuned on a dialogue summarization dataset using the Hugging F
 ## 👨‍💻 Author
 
 **Princy Jain**
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
